@@ -60,10 +60,10 @@ const Section = () => {
             <p>
               📧 Email:{' '}
               <a
-                href="mailto:gabdallah@gdmarketing.net"
+                href="mailto:george@gdmarketing.pro"
                 style={{ color: '#fff', textDecoration: 'underline' }}
               >
-                gabdallah@gdmarketing.net
+                george@gdmarketing.pro
               </a>
             </p>
           </div>
@@ -78,12 +78,12 @@ const Section = () => {
             <p>
               🌐 Website:{' '}
               <a
-                href="https://www.gdmarketing.net"
+                href="https://www.gdmarketing.pro"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: '#fff', textDecoration: 'underline' }}
               >
-                www.gdmarketing.net
+                www.gdmarketing.pro
               </a>
             </p>
           </div>
